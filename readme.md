@@ -17,7 +17,7 @@ O uso da IDE é opcional, mas recomendamos o uso do Visual Studio Code. Após ab
    - Navegue até o arquivo `Main.java` localizado no caminho `demo/src/main/java/com/example/Main.java`.
    - No Visual Studio Code, clique com o botão direito do mouse no arquivo `Main.java` e selecione a opção "Run Java".
 
-**Link para o projeto:** [Adicione o link para o repositório do projeto aqui]
+**Link para o projeto:** [[Adicione o link para o repositório do projeto aqui](https://github.com/ttmatteus/Project-Library-V.0.1)]
 
 ### Funcionalidades
 
